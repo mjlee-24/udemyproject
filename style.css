@@ -1,0 +1,42 @@
+body {
+    font-family: "josefin sans", sans-serif;
+}
+.opening{
+    background-color: lavender;
+    text-align: center;
+    color: rgba(162, 71, 246, 0.748);
+    padding: 20px;
+}
+.face {
+    width:300px;
+    border-radius: 50%;
+    border: 3px dotted 
+}
+.content{
+    background-color: aliceblue;
+    padding: 20px;
+}
+.sample {
+    width:200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contact {
+    background-color:bisque;
+    text-align: center;
+    padding: 5px;
+    color: black;
+}
+.interest{
+    background-color: lavender;
+    padding: 20px;
+}
+.ul{
+    font-size: 20px;
+}
+#omm{
+    padding: 10px;
+}
+#hp{
+    padding:10px;
+}
